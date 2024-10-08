@@ -1,0 +1,162 @@
+*,
+html {
+
+}
+.back{
+    
+    background-image:url(dialah\ rencana.jpg);
+    background-repeat: no-repeat;
+    background-size: 1326px 2366px;
+    
+
+}
+
+.head {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 25px;
+    height: 78px;
+    font-display:initial;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:aqua;
+    font-weight: 900;
+    background-color:darkslategray;
+    width: 38%;
+    border-radius: 10px;
+
+
+}
+.ulbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    }
+
+.libarr {
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    font-size: 25px;
+}
+
+.libarr:hover {
+    background-color:darkcyan;
+    transition: .5 ease-in-out;
+    transition-delay: .2s;
+    border-radius: 15px;
+    transition-duration: .2s;
+}
+
+.ins {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+
+.TT {
+    text-decoration: none;
+    color: white;
+}
+
+
+.nav {
+    padding: 15px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    padding: 30px;
+    border-radius: 25px;
+
+}
+
+
+
+.instagram {
+    width: 35px;
+    height: 25px;
+    position:relative;
+    top: 3px;
+    
+}
+
+.tiktok {
+    width: 31px;
+    height: 25px;
+    position: relative;
+    top: 3px;
+
+}
+
+.content {
+
+
+}
+
+.video {
+    width: 50%;
+    height: 75%;
+    border-radius: 10px ;
+    
+    
+
+}
+
+.fotokanan {
+    width: 150px;
+    height: 155px;
+    margin: 50px;
+    border-radius:5px ;
+}
+
+.Me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:Tahoma;
+    border-radius: ;
+    padding: 75px;
+    color:rgb(255, 255, 255);  
+    text-align: center;
+   
+}
+
+.footer {
+    font-family:Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+
+.konten1 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.konten1img {
+    width: 300px;
+    height: 200px;
+    margin: 50px;
+    border-radius: 5px;
+}
+
+.konten2 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gambar2 {
+    width: 300px;
+    height: 200px;
+    margin: 50px;
+    border-radius: 5px;
+}
